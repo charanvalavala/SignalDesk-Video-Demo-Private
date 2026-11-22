@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="455" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 455" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="455"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-455)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="130" y="15" width="365" height="425" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,98%,97%); fill-rule: evenodd;"/>
+			<text x="258.095" y="421" style="font-family: Helvetica; font-size: 10px;fill: rgb(3%,49%,50%); stroke:none;" transform="translate(0,842) scale(1,-1)">SIGNALDESK SYSTEM</text>
+			<circle cx="50" cy="387" r="8" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 50,379 L 50,355 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,368 L 65,368 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,355 L 37,341 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,355 L 63,341 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="32.216" y="325" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,650) scale(1,-1)">Employee</text>
+			<circle cx="50" cy="237" r="8" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 50,229 L 50,205 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,218 L 65,218 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,205 L 37,191 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,205 L 63,191 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="30.66" y="175" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,350) scale(1,-1)">Technician</text>
+			<circle cx="50" cy="87" r="8" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 50,79 L 50,55 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,68 L 65,68 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,55 L 37,41 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 50,55 L 63,41 Z" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="26.44" y="25" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,50) scale(1,-1)">Administrator</text>
+			<ellipse cx="312.0" cy="385.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="282.212" y="382" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,764) scale(1,-1)">Register / sign in</text>
+			<ellipse cx="312.0" cy="335.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="275.988" y="332" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,664) scale(1,-1)">Report / track / reply</text>
+			<ellipse cx="312.0" cy="285.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="269.536" y="282" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,564) scale(1,-1)">Verify / close / feedback</text>
+			<ellipse cx="312.0" cy="235.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="265.756" y="232" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,464) scale(1,-1)">Acknowledge / investigate</text>
+			<ellipse cx="312.0" cy="185.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="259.98" y="182" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,364) scale(1,-1)">Request information / resolve</text>
+			<ellipse cx="312.0" cy="135.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="257.756" y="132" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,264) scale(1,-1)">Manage users / services / SLA</text>
+			<ellipse cx="312.0" cy="85.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="257.532" y="82" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,164) scale(1,-1)">Assign / monitor / report / audit</text>
+			<ellipse cx="312.0" cy="35.0" rx="150.0" ry="19.0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="281.1" y="32" style="font-family: Helvetica; font-size: 8px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,64) scale(1,-1)">View notifications</text>
+			<path d="M 75,365 L 162,385 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,365 L 162,335 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,365 L 162,285 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,365 L 162,35 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,215 L 162,385 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,215 L 162,235 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,215 L 162,185 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,215 L 162,35 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,65 L 162,385 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,65 L 162,135 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,65 L 162,85 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 75,65 L 162,35 Z" style="stroke: rgb(65%,73%,74%); stroke-linecap: butt; stroke-width: 0.7;"/>
+		</g>
+	</g>
+</svg>

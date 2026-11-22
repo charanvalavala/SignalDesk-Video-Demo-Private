@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="430" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 430" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="430"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-430)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="158" y="330" width="180" height="77" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="158" y="380" width="180" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="207.73399999999998" y="389" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,778) scale(1,-1)">AssignmentStrategy</text>
+			<text x="227.3745" y="414" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,828) scale(1,-1)">&lt;&lt;abstract&gt;&gt;</text>
+			<text x="167" y="364" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,728) scale(1,-1)">+ choose(candidates, category)</text>
+			<rect x="0" y="185" width="235" height="90" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="248" width="235" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="72.986" y="257" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,514) scale(1,-1)">SkillBasedAssignment</text>
+			<text x="9" y="232" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,464) scale(1,-1)">+ choose(candidates, category)</text>
+			<text x="9" y="220" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,440) scale(1,-1)">Requires skill match; ranks experience</text>
+			<text x="9" y="208" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,416) scale(1,-1)">Excludes unavailable/full technicians</text>
+			<rect x="260" y="185" width="235" height="90" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="260" y="248" width="235" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="331.2265" y="257" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,514) scale(1,-1)">LoadBasedAssignment</text>
+			<text x="269" y="232" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,464) scale(1,-1)">+ choose(candidates, category)</text>
+			<text x="269" y="220" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,440) scale(1,-1)">Ranks load / capacity ratio</text>
+			<text x="269" y="208" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,416) scale(1,-1)">Skill match breaks a load tie</text>
+			<path d="M 115,275 L 205,330 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="205 330, 193.8599 329.0519, 199.0744 320.5191" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 375,275 L 290,330 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="290 330, 295.6794 320.3696, 301.112 328.7653" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="45" width="220" height="80" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="98" width="220" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="83.999" y="107" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,214) scale(1,-1)">PriorityPolicy</text>
+			<text x="89.3745" y="132" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,264) scale(1,-1)">&lt;&lt;abstract&gt;&gt;</text>
+			<text x="9" y="82" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,164) scale(1,-1)">+ calculate(I, U, C, affected)</text>
+			<rect x="275" y="45" width="220" height="80" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="275" y="98" width="220" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="351.9925" y="107" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,214) scale(1,-1)">WeightedPriority</text>
+			<text x="284" y="82" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,164) scale(1,-1)">+ calculate(I, U, C, affected)</text>
+			<text x="284" y="70" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,140) scale(1,-1)">Returns (priority, score)</text>
+			<path d="M 275,85 L 220,85 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="220 85, 230 80, 230 90" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="0" y="5" style="font-family: Helvetica; font-size: 8px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,10) scale(1,-1)">Hollow triangle: inheritance / realization of a Python ABC contract.</text>
+		</g>
+	</g>
+</svg>

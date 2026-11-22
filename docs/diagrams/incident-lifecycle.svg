@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="145" y="390" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="234.5015" y="402" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,804) scale(1,-1)">NEW</text>
+			<path d="M 245,390 L 245,373 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,373 L 248,379 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,373 L 242,379 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="341" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="218.7425" y="353" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,706) scale(1,-1)">CLASSIFIED</text>
+			<path d="M 245,341 L 245,324 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,324 L 248,330 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,324 L 242,330 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="292" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="221.744" y="304" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,608) scale(1,-1)">ASSIGNED</text>
+			<path d="M 245,292 L 245,275 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,275 L 248,281 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,275 L 242,281 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="243" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="206.246" y="255" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,510) scale(1,-1)">ACKNOWLEDGED</text>
+			<path d="M 245,243 L 245,226 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,226 L 248,232 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,226 L 242,232 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="194" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="212.492" y="206" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,412) scale(1,-1)">IN_PROGRESS</text>
+			<path d="M 245,194 L 245,177 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,177 L 248,183 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,177 L 242,183 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="145" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="220.493" y="157" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,314) scale(1,-1)">RESOLVED</text>
+			<path d="M 245,145 L 245,128 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,128 L 248,134 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,128 L 242,134 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="96" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="224.246" y="108" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,216) scale(1,-1)">VERIFIED</text>
+			<path d="M 245,96 L 245,79 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,79 L 248,85 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,79 L 242,85 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<rect x="145" y="47" width="200" height="32" rx="10" ry="0" style="stroke: rgb(3%,49%,50%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="226.496" y="59" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,118) scale(1,-1)">CLOSED</text>
+			<path d="M 345,161 L 410,161 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,161 L 404,164 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,161 L 404,158 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,161 L 410,210 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,210 L 407,204 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,210 L 413,204 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 410,210 L 345,210 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 345,210 L 351,207 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 345,210 L 351,213 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="382.5" y="216.0" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,432) scale(1,-1)">reopen</text>
+			<text x="15" y="15" style="font-family: Helvetica; font-size: 8px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,30) scale(1,-1)">Automatic: NEW -&gt; CLASSIFIED -&gt; ASSIGNED. Unstaffed reports stop at CLASSIFIED.</text>
+		</g>
+	</g>
+</svg>

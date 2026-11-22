@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="390" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 390" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="390"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-390)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="50" y="310" width="395" height="60" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="50" y="343" width="395" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="208.242" y="352" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,704) scale(1,-1)">Browser workspace</text>
+			<text x="59" y="327" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,654) scale(1,-1)">Employee | Technician | Administrator</text>
+			<text x="59" y="315" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,630) scale(1,-1)">HTML forms, responsive CSS, JavaScript fetch adapter</text>
+			<rect x="50" y="220" width="395" height="60" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="50" y="253" width="395" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="180.477" y="262" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,524) scale(1,-1)">HTTP boundary: Handler / Server</text>
+			<text x="59" y="237" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,474) scale(1,-1)">Authentication, sessions, CSRF, JSON routing, errors, CSV</text>
+			<rect x="50" y="120" width="395" height="70" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="50" y="163" width="395" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="216.738" y="172" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,344) scale(1,-1)">IncidentService</text>
+			<text x="59" y="147" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,294) scale(1,-1)">Role and ownership checks; lifecycle orchestration</text>
+			<text x="59" y="135" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,270) scale(1,-1)">Composes priority policy, assignment strategies, notification channels</text>
+			<rect x="50" y="15" width="220" height="70" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="50" y="58" width="220" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="124.738" y="67" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,134) scale(1,-1)">SQLiteRepository</text>
+			<text x="59" y="42" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,84) scale(1,-1)">Unit of work: BEGIN IMMEDIATE</text>
+			<text x="59" y="30" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,60) scale(1,-1)">Schema, constraints, rollback and commit</text>
+			<rect x="300" y="15" width="145" height="70" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="300" y="58" width="145" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="343.4885" y="67" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,134) scale(1,-1)">Monitor thread</text>
+			<text x="309" y="42" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,84) scale(1,-1)">Every 15 seconds</text>
+			<text x="309" y="30" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,60) scale(1,-1)">Calls service.monitor()</text>
+			<path d="M 245,310 L 245,280 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,280 L 248,286 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,280 L 242,286 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="250.0" y="301.0" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,602) scale(1,-1)">same-origin HTTP / JSON</text>
+			<path d="M 245,220 L 245,190 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,190 L 248,196 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 245,190 L 242,196 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="250.0" y="211.0" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,422) scale(1,-1)">authorized operation</text>
+			<path d="M 160,120 L 160,85 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 160,85 L 163,91 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 160,85 L 157,91 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="165.0" y="108.5" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,217) scale(1,-1)">transaction</text>
+			<path d="M 375,85 L 375,120 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 375,120 L 372,114 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 375,120 L 378,114 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="380.0" y="108.5" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,217) scale(1,-1)">SLA scan</text>
+		</g>
+	</g>
+</svg>

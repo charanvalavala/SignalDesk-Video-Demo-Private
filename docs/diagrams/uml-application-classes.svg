@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="505" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 505" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="505"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-505)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="370" width="205" height="110" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="453" width="205" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="71.738" y="462" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,924) scale(1,-1)">IncidentService</text>
+			<text x="9" y="437" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,874) scale(1,-1)">- repo: SQLiteRepository</text>
+			<text x="9" y="425" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,850) scale(1,-1)">- priority: PriorityPolicy</text>
+			<text x="9" y="413" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,826) scale(1,-1)">- channels: list[NotificationChannel]</text>
+			<text x="9" y="401" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,802) scale(1,-1)">+ create(), transition(), assign()</text>
+			<text x="9" y="389" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,778) scale(1,-1)">+ monitor(), detail(), configure()</text>
+			<rect x="290" y="370" width="205" height="110" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="453" width="205" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="357.238" y="462" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,924) scale(1,-1)">SQLiteRepository</text>
+			<text x="299" y="437" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,874) scale(1,-1)">- path: str</text>
+			<text x="299" y="425" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,850) scale(1,-1)">+ initialize()</text>
+			<text x="299" y="413" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,826) scale(1,-1)">+ transaction(): context manager</text>
+			<text x="299" y="401" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,802) scale(1,-1)">Commits or rolls back all writes</text>
+			<path d="M 205,425 L 290,425 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 290,425 L 284,428 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 290,425 L 284,422 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="205 425, 210 428, 215 425, 210 422" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="252.5" y="431.0" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,862) scale(1,-1)">1 holds 1</text>
+			<rect x="0" y="190" width="205" height="105" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="268" width="205" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="63.485" y="277" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,554) scale(1,-1)">NotificationChannel</text>
+			<text x="81.8745" y="302" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,604) scale(1,-1)">&lt;&lt;abstract&gt;&gt;</text>
+			<text x="9" y="252" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,504) scale(1,-1)">+ deliver(connection, recipient,</text>
+			<text x="9" y="240" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,480) scale(1,-1)">    incident, message, now)</text>
+			<path d="M 100,370 L 100,295 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100,295 L 103,301 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100,295 L 97,301 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="100 370, 103 365, 100 360, 97 365" style="stroke: rgb(8%,20%,24%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,20%,24%); fill-rule: evenodd;"/>
+			<text x="105.0" y="338.5" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,677) scale(1,-1)">1 owns 0..*</text>
+			<rect x="290" y="210" width="205" height="90" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="290" y="273" width="205" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="383.0005" y="282" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,564) scale(1,-1)">User</text>
+			<text x="299" y="257" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,514) scale(1,-1)">+ id, name, role (frozen)</text>
+			<text x="299" y="245" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,490) scale(1,-1)">+ require(*roles)</text>
+			<text x="299" y="233" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,466) scale(1,-1)">Account identity value object</text>
+			<path d="M 290,255 L 205,370 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 205,370 L 206.153818,363.39177 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 205,370 L 210.978875,366.958116 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="252.5" y="318.5" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,637) scale(1,-1)">passed to operations</text>
+			<rect x="0" y="40" width="155" height="80" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="0" y="93" width="155" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="48.9835" y="102" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,204) scale(1,-1)">InAppChannel</text>
+			<text x="9" y="77" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,154) scale(1,-1)">+ deliver(...)</text>
+			<text x="9" y="65" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,130) scale(1,-1)">Persists in-app alert</text>
+			<rect x="177" y="40" width="155" height="80" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="177" y="93" width="155" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="206.485" y="102" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,204) scale(1,-1)">SimulatedEmailChannel</text>
+			<text x="186" y="77" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,154) scale(1,-1)">+ deliver(...)</text>
+			<text x="186" y="65" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,130) scale(1,-1)">Persists email outbox</text>
+			<path d="M 75,120 L 75,190 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="75 190, 70 180, 80 180" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 245,120 L 155,190 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="155 190, 159.8238 179.9138, 165.9632 187.8074" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="40" width="145" height="110" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="350" y="123" width="145" height="27" rx="6" ry="0" style="stroke: rgb(84%,89%,89%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,95%,93%); fill-rule: evenodd;"/>
+			<text x="389.236" y="132" style="font-family: Helvetica; font-size: 9px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,264) scale(1,-1)">IncidentLifecycle</text>
+			<text x="359" y="107" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,214) scale(1,-1)">+ transitions: dict</text>
+			<text x="359" y="95" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,190) scale(1,-1)">+ validate(old, new)</text>
+			<text x="359" y="83" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(8%,20%,24%); stroke:none;" transform="translate(0,166) scale(1,-1)">Rejects invalid edges</text>
+			<path d="M 495,150 L 495,495 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 495,495 L 100,495 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100,495 L 100,480 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100,480 L 103,486 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 100,480 L 97,486 Z" style="stroke: rgb(37%,46%,49%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.0" y="493.5" style="font-family: Helvetica; font-size: 7px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,987) scale(1,-1)">uses lifecycle</text>
+			<text x="0" y="10" style="font-family: Helvetica; font-size: 7.5px;fill: rgb(37%,46%,49%); stroke:none;" transform="translate(0,20) scale(1,-1)">Filled diamond: composition. Hollow diamond: aggregation. Arrow: dependency.</text>
+		</g>
+	</g>
+</svg>
